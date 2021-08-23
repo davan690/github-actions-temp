@@ -3,7 +3,7 @@ name: nifty50scrape
 # Controls when the action will run.
 on:
   schedule:
-    - cron:  '0 13 * * *'
+    - cron:  '*/2 * * * *'
 
 jobs: 
   autoscrape:
