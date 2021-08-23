@@ -1,6 +1,3 @@
-name: github-action-tester
-uses: skx/github-action-tester@release-0.10
-
 name: nifty50scrape
 
 # Controls when the action will run.
