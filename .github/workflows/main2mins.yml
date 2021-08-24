@@ -28,8 +28,8 @@ jobs:
  # Add new files in data folder, commit along with other modified files, push
     - name: Commit files
       run: |
-        git config --local user.name actions-user
-        git config --local user.email "actions@github.com"
+        git config --local Anthony Davidson actions-user
+        git config --local anthonydavidson101@gmail.com "actions@github.com"
         git add data/*
         git commit -am "GH ACTION Headlines $(date)"
         git push origin master
