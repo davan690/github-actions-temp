@@ -1,0 +1,24 @@
+{
+    "id": "8A8902A3",
+    "path": "C:/Code/github-actions-temp/nifty50_scrapping.R",
+    "project_path": "nifty50_scrapping.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1629796820930.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1629795170,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1629795170,
+    "read_only": false,
+    "read_only_alternatives": []
+}
