@@ -3,7 +3,7 @@ name: newone
 # Controls when the action will run.
 on:
   schedule:
-    - cron:  '0 4 * * *'
+    - cron:  '30 5,17 * * *'
 
 jobs: 
   autoscrape:
