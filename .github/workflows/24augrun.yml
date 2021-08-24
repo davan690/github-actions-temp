@@ -13,6 +13,9 @@ jobs:
     # Load repo and install R
     steps:
     - uses: actions/checkout@v2
+      with:
+        lfs: true
+        token: ${{ secrets.ACCESS_TOKEN }}
     - uses: r-lib/actions/setup-r@master
 
     # Set-up R
