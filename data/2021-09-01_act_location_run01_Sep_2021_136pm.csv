@@ -1,10 +1,10 @@
 Status,Exposure.Location,Street,Suburb,Date,Arrival.Time,Departure.Time,Contact,type,lat,lon
 ,Woolworths Charnwood,25-30 Charnwood Place,Charnwood,30/08/2021 - Monday,7:00am,8:20am,Casual,Casual ,-35.2045295,149.0328578
-New,Priceline Pharmacy Gungahlin,126/43 Hibberson Street,Gungahlin,30/08/2021 - Monday,12:20pm,1:20pm,Casual,Casual New,-35.185676,149.136702
-New,ALDI Gungahlin,Hibberson Street,Gungahlin,30/08/2021 - Monday,12:40pm,1:30pm,Monitor,Monitor New,-35.18534940000001,149.1361628
-New,First Choice Liquor Gungahlin,46-50 Hibberson Street,Gungahlin,30/08/2021 - Monday,12:50pm,2:00pm,Casual,Casual New,-35.1866353,149.1368241
-New,Bus Route R3 Transport Canberra Code BUS607,Woden Interchange to Cooleman Court,Public Transport,30/08/2021 - Monday,1:25pm,1:38pm,Casual,Casual New,-35.3444429,149.0872442
-New,Bus Route 70 Transport Canberra Code BUS376,Cooleman Court to Woden Interchange,Public Transport,30/08/2021 - Monday,1:57pm,2:07pm,Casual,Casual New,-35.3444429,149.0872442
+New,Priceline Pharmacy Gungahlin,126/43 Hibberson Street,Gungahlin,30/08/2021 - Monday,12:20pm,1:20pm,Casual,Casual New,NA,NA
+New,ALDI Gungahlin,Hibberson Street,Gungahlin,30/08/2021 - Monday,12:40pm,1:30pm,Monitor,Monitor New,NA,NA
+New,First Choice Liquor Gungahlin,46-50 Hibberson Street,Gungahlin,30/08/2021 - Monday,12:50pm,2:00pm,Casual,Casual New,NA,NA
+New,Bus Route R3 Transport Canberra Code BUS607,Woden Interchange to Cooleman Court,Public Transport,30/08/2021 - Monday,1:25pm,1:38pm,Casual,Casual New,NA,NA
+New,Bus Route 70 Transport Canberra Code BUS376,Cooleman Court to Woden Interchange,Public Transport,30/08/2021 - Monday,1:57pm,2:07pm,Casual,Casual New,NA,NA
 ,Argyle Housing - Ainslie Village,23 Quick Street,Campbell,29/08/2021 - Sunday,12:00am,11:59pm,Close,Close ,-35.2749161,149.1491264
 ,Priceline Pharmacy Woden,"Westfield Woden, Keltie Street",Phillip,29/08/2021 - Sunday,12:45pm,2:30pm,Close,Close ,-35.3461804,149.0846887
 ,Woolworths Weston Creek,Corner Brierly Street and Mahony Court,Weston,29/08/2021 - Sunday,2:50pm,4:00pm,Casual,Casual ,-35.340765,149.052706
@@ -16,19 +16,19 @@ New,McDonalds Conder,Box Hill Avenue,Conder,29/08/2021 - Sunday,4:20pm,5:00pm,Mo
 New,Ampol Petrol Calwell,Were Street,Calwell,29/08/2021 - Sunday,4:40pm,5:20pm,Monitor,Monitor New,-35.4347448,149.1125232
 New,Master Kebabs Wanniassa,50 Denigan Street,Wanniassa,29/08/2021 - Sunday,5:15pm,6:30pm,Monitor,Monitor New,-35.4038975,149.0967517
 New,Oscy's Burgers Tuggeranong,90 Reed Street,Greenway,29/08/2021 - Sunday,6:20pm,7:00pm,Monitor,Monitor New,-35.4174467,149.0683408
-New,Ainslie Cellars,7 Edgar Street,Ainslie,29/08/2021 - Sunday,2:25pm,3:05pm,Monitor,Monitor New,-35.2622298,149.1451538
-New,Ainslie Cellars,7 Edgar Street,Ainslie,29/08/2021 - Sunday,4:00pm,4:40pm,Monitor,Monitor New,-35.2622298,149.1451538
-New,Bus Route 65 Transport Canberra Code BUS641,Woden Interchange to Cooleman Court,Public Transport,29/08/2021 - Sunday,8:00am,8:10am,Casual,Casual New,-35.3444429,149.0872442
-New,Bus Route 64 Transport Canberra Code BUS641,Cooleman Court to Woden Interchange,Public Transport,29/08/2021 - Sunday,8:43am,8:53am,Casual,Casual New,-35.3444429,149.0872442
+New,Ainslie Cellars,7 Edgar Street,Ainslie,29/08/2021 - Sunday,2:25pm,3:05pm,Monitor,Monitor New,NA,NA
+New,Ainslie Cellars,7 Edgar Street,Ainslie,29/08/2021 - Sunday,4:00pm,4:40pm,Monitor,Monitor New,NA,NA
+New,Bus Route 65 Transport Canberra Code BUS641,Woden Interchange to Cooleman Court,Public Transport,29/08/2021 - Sunday,8:00am,8:10am,Casual,Casual New,NA,NA
+New,Bus Route 64 Transport Canberra Code BUS641,Cooleman Court to Woden Interchange,Public Transport,29/08/2021 - Sunday,8:43am,8:53am,Casual,Casual New,NA,NA
 ,Argyle Housing - Ainslie Village,23 Quick Street,Campbell,28/08/2021 - Saturday,12:00am,11:59pm,Close,Close ,-35.2749161,149.1490764
 ,Ampol Foodary Weston,49 Brierly Street,Weston,28/08/2021 - Saturday,5:40pm,6:20pm,Monitor,Monitor ,-35.3402449,149.0520681
 ,Woolworths Kippax,"Kippax Fair Shopping Centre, 26 Hardwick Crescent",Holt,28/08/2021 - Saturday,3:20pm,4:20pm,Casual,Casual ,-35.2218013,149.0194363
 ,Kingsley's Chicken Kippax,"Kippax Fair Shopping Centre, 26 Hardwick Crescent",Holt,28/08/2021 - Saturday,3:30pm,4:20pm,Casual,Casual ,-35.2226439,149.0200434
-,Westfield Woden,"Westfield Woden, Keltie Street",Phillip,28/08/2021 - Saturday,7:45am,5:00pm,Monitor,Monitor ,-35.3463199,149.0860576
-New,Westfield Woden,"Westfield Woden, Keltie Street",Phillip,28/08/2021 - Saturday,4:00pm,5:15pm,Monitor,Monitor New,-35.3463199,149.0860576
+,Westfield Woden,"Westfield Woden, Keltie Street",Phillip,28/08/2021 - Saturday,7:45am,5:00pm,Monitor,Monitor ,NA,NA
+New,Westfield Woden,"Westfield Woden, Keltie Street",Phillip,28/08/2021 - Saturday,4:00pm,5:15pm,Monitor,Monitor New,NA,NA
 New,Woolworths Woden,"Westfield Woden, Keltie Street",Phillip,28/08/2021 - Saturday,4:10pm,5:15pm,Casual,Casual New,-35.3463199,149.0860076
 New,Canberra Cafe Greenway,Shop 12/ 150-180 Soward Way,Greenway,28/08/2021 - Saturday,12:40pm,1:20pm,Monitor,Monitor New,-35.4175266,149.0685276
-New,Oporto Tuggeranong,"Tuggeranong South.Point Shopping Centr, 210 Anketell Street",Greenway,28/08/2021 - Saturday,1:40pm,2:20pm,Monitor,Monitor New,-35.4167822,149.0665317
+New,Oporto Tuggeranong,"Tuggeranong South.Point Shopping Centr, 210 Anketell Street",Greenway,28/08/2021 - Saturday,1:40pm,2:20pm,Monitor,Monitor New,NA,NA
 New,McDonalds Erindale,Corner Ricardo Street and McBryde Crescent,Wanniassa,28/08/2021 - Saturday,4:45pm,5:40pm,Monitor,Monitor New,-35.4053191,149.0979023
 New,Pizza Hut Erindale,Shop 2/38 Gartside Street,Wanniassa,28/08/2021 - Saturday,5:40pm,6:20pm,Monitor,Monitor New,-35.4058987,149.1002583
 ,Metro Petroleum Mitchell,Lysaght Street,Mitchell,27/08/2021 - Friday,10:00am,10:50am,Monitor,Monitor ,-35.2154233,149.1424858
@@ -37,8 +37,8 @@ New,Pizza Hut Erindale,Shop 2/38 Gartside Street,Wanniassa,28/08/2021 - Saturday
 ,Officeworks Belconnen,5 Cohen Street,Belconnen,27/08/2021 - Friday,10:25am,11:45am,Casual,Casual ,-35.2398229,149.0588908
 ,EG Fuel Canberra Gateway,41 Federal Highway,Lyneham,27/08/2021 - Friday,9:45am,10:30am,Monitor,Monitor ,-35.2300948,149.1508365
 ,Kingsley's Chicken Westfield Woden,"Westfield Woden, Keltie Street",Phillip,27/08/2021 - Friday,2:15pm,3:00pm,Monitor,Monitor ,-35.3461343,149.0849866
-,JAGA Swanson Court,"Level 1, 11-17 Swanson Court",Belconnen,27/08/2021 - Friday,10:00am,11:00am,Monitor,Monitor ,-35.2390642,149.0689282
-,Priceline Pharmacy Woden,"Shop G98, Westfield Woden",Phillip,27/08/2021 - Friday,8:50am,6:00pm,Close,Close ,-35.3461804,149.0846387
+,JAGA Swanson Court,"Level 1, 11-17 Swanson Court",Belconnen,27/08/2021 - Friday,10:00am,11:00am,Monitor,Monitor ,NA,NA
+,Priceline Pharmacy Woden,"Shop G98, Westfield Woden",Phillip,27/08/2021 - Friday,8:50am,6:00pm,Close,Close ,NA,NA
 ,Woolworths Woden,"Westfield Woden, Keltie Street",Phillip,27/08/2021 - Friday,7:50am,8:30am,Casual,Casual ,-35.3463199,149.0861576
 ,Liquorland Woden,"Westfield Woden, Keltie Street",Phillip,27/08/2021 - Friday,4:40pm,5:30pm,Monitor,Monitor ,-35.3463199,149.0861076
 ,Westfield Woden,"Westfield Woden, Keltie Street",Phillip,27/08/2021 - Friday,7:45am,5:00pm,Monitor,Monitor ,-35.3463199,149.0861076
@@ -51,8 +51,8 @@ New,Coles Chisholm,42 Halley Street,Chisholm,27/08/2021 - Friday,1:00pm,1:40pm,M
 New,McDonalds Erindale,Corner Ricardo Street and McBryde Crescent,Wanniassa,27/08/2021 - Friday,5:40pm,6:20pm,Casual,Casual New,-35.4053191,149.0979523
 New,Indian Affair,64 Colbee Court,Phillip,27/08/2021 - Friday,6:55pm,7:35pm,Monitor,Monitor New,-35.3526602,149.0878811
 New,Oporto Phillip,82 Parramatta Street,Phillip,27/08/2021 - Friday,8:20pm,9:00pm,Monitor,Monitor New,-35.35521,149.0903394
-New,KFC Woden,48 Botany Street,Phillip,27/08/2021 - Friday,3:50pm,10:00pm,Casual,Casual New,-35.3493546,149.0887519
-New,SupaBarn Express Watson,5 Watson Place,Watson,27/08/2021 - Friday,9:40am,11:00am,Casual,Casual New,-35.2388939,149.1535201
+New,KFC Woden,48 Botany Street,Phillip,27/08/2021 - Friday,3:50pm,10:00pm,Casual,Casual New,NA,NA
+New,SupaBarn Express Watson,5 Watson Place,Watson,27/08/2021 - Friday,9:40am,11:00am,Casual,Casual New,NA,NA
 ,On-Lake Cafe,"Bowen Park, Bowen Drive",Barton,26/08/2021 - Thursday,12:55pm,1:45pm,Casual,Casual ,-35.3080478,149.1399574
 ,BWS Mawson,Mawson Place,Mawson,26/08/2021 - Thursday,6:35pm,7:30pm,Monitor,Monitor ,-35.3661405,149.0944118
 ,Goodberry's Erindale,2/20 Gartside Street,Wanniassa,26/08/2021 - Thursday,2:20pm,3:00pm,Monitor,Monitor ,-35.4058291,149.0994548
@@ -65,7 +65,7 @@ New,SupaBarn Express Watson,5 Watson Place,Watson,27/08/2021 - Friday,9:40am,11:
 ,Officeworks Braddon,30 Mort Street,Braddon,26/08/2021 - Thursday,2:50pm,4:00pm,Casual,Casual ,-35.2742758,149.1314656
 ,Argyle Housing - Ainslie Village,23 Quick Street,Campbell,26/08/2021 - Thursday,12:00am,11:59pm,Close,Close ,-35.2749161,149.1489764
 ,Argyle Housing - Ainslie Village (Winter Lodge),23 Quick Street,Campbell,26/08/2021 - Thursday,12:00am,12:00pm,Close,Close ,-35.2749161,149.1489764
-,Priceline Pharmacy Woden,"Shop G98, Westfield Woden",Phillip,26/08/2021 - Thursday,9:15am,6:00pm,Close,Close ,-35.3461804,149.0846387
+,Priceline Pharmacy Woden,"Shop G98, Westfield Woden",Phillip,26/08/2021 - Thursday,9:15am,6:00pm,Close,Close ,NA,NA
 ,SupaBarn Express Watson,5 Watson Place,Watson,26/08/2021 - Thursday,9:30am,10:30am,Casual,Casual ,-35.2388939,149.1535451
 ,Garema Place Surgery,"Level 1, Florina Building, Garema Place",Canberra City,26/08/2021 - Thursday,11:00am,12:20pm,Casual,Casual ,-35.2785694,149.1320639
 ,Kingsley's Chicken Westfield Woden,"Westfield Woden, Keltie Street",Phillip,26/08/2021 - Thursday,2:00pm,2:40pm,Monitor,Monitor ,-35.3461343,149.0850366
@@ -83,9 +83,9 @@ New,SupaBarn Express Watson,5 Watson Place,Watson,27/08/2021 - Friday,9:40am,11:
 ,Saint Clare of Assisi Outside School Hours Care (OSHC),Box Hill Avenue and Heidelberg Street,Conder,26/08/2021 - Thursday,8:00am,8:30am,Casual,Casual ,-35.458748,149.0966839
 ,Saint Clare of Assisi Outside School Hours Care (OSHC),Box Hill Avenue and Heidelberg Street,Conder,26/08/2021 - Thursday,4:00pm,4:30pm,Casual,Casual ,-35.458748,149.0966339
 ,Kingsley's Chicken Conder,"Lanyon Marketplace, 4 Sidney Nolan Street",Conder,26/08/2021 - Thursday,3:40pm,4:30pm,Monitor,Monitor ,-35.457682,149.0924497
-New,JAGA Swanson Court,"Level 1, 11-17 Swanson Court",Belconnen,26/08/2021 - Thursday,4:00pm,6:00pm,Casual,Casual New,-35.2390642,149.0689282
-New,Bus Route 22 Transport Canberra Code BUS491,Gungahlin Place to Throsby,Public Transport,26/08/2021 - Thursday,2:50pm,2:56pm,Casual,Casual New,-35.185639,149.135481
-New,Light Rail Route R1 Transport Canberra Code LRV009,Gungahlin to Manning Clark North,Public Transport,26/08/2021 - Thursday,5:01pm,5:03pm,Casual,Casual New,-35.2809368,149.1300092
+New,JAGA Swanson Court,"Level 1, 11-17 Swanson Court",Belconnen,26/08/2021 - Thursday,4:00pm,6:00pm,Casual,Casual New,NA,NA
+New,Bus Route 22 Transport Canberra Code BUS491,Gungahlin Place to Throsby,Public Transport,26/08/2021 - Thursday,2:50pm,2:56pm,Casual,Casual New,NA,NA
+New,Light Rail Route R1 Transport Canberra Code LRV009,Gungahlin to Manning Clark North,Public Transport,26/08/2021 - Thursday,5:01pm,5:03pm,Casual,Casual New,NA,NA
 ,The Chifley Grocer,20-22 Chifley Place,Chifley,25/08/2021 - Wednesday,11:40am,12:30pm,Monitor,Monitor ,-35.3525033,149.076082
 ,Coles Chisholm,"Chisholm Village Shopping Centre, 42 Halley Street",Chisholm,25/08/2021 - Wednesday,5:20am,5:30pm,Casual,Casual ,-35.4140008,149.1281707
 ,Total Tools Fyshwick,103 Gladstone Street,Fyshwick,25/08/2021 - Wednesday,10:15am,11:10am,Monitor,Monitor ,-35.3221611,149.1807051
@@ -104,10 +104,10 @@ New,Light Rail Route R1 Transport Canberra Code LRV009,Gungahlin to Manning Clar
 ,Tikka Take,Shop 6/21 Genge Street,Canberra City,25/08/2021 - Wednesday,7:30pm,8:30pm,Monitor,Monitor ,-35.2763451,149.1321222
 ,Optus Canberra Centre,"Shop AG12B, Canberra Centre, 148 Bunda Street",Canberra City,25/08/2021 - Wednesday,2:40pm,3:30pm,Casual,Casual ,-35.2802271,149.1332309
 ,Universal Phone Services Canberra Centre,"Shop AG14, Canberra Centre, 148 Bunda Street",Canberra City,25/08/2021 - Wednesday,2:50pm,3:45pm,Monitor,Monitor ,-35.2789692,149.1338786
-New,Costco Canberra,39-41 Mustang Avenue,Majura Park,25/08/2021 - Wednesday,4:00pm,5:40pm,Casual,Casual New,-35.2972375,149.1905839
-New,Petbarn Majura Park,15 Mustange Avenue,Majura Park,25/08/2021 - Wednesday,5:00pm,5:50pm,Monitor,Monitor New,-35.2949224,149.1906592
-New,Best Friends Pets Fyshwick,1 Barrier Street,Fyshwick,25/08/2021 - Wednesday,5:15pm,6:00pm,Monitor,Monitor New,-35.3319261,149.1769325
-New,Woolworths Conder,"Lanyon Marketplace, 4 Sidney Nolan Street",Conder,25/08/2021 - Wednesday,5:00pm,6:30pm,Casual,Casual New,-35.457682,149.0924747
+New,Costco Canberra,39-41 Mustang Avenue,Majura Park,25/08/2021 - Wednesday,4:00pm,5:40pm,Casual,Casual New,NA,NA
+New,Petbarn Majura Park,15 Mustange Avenue,Majura Park,25/08/2021 - Wednesday,5:00pm,5:50pm,Monitor,Monitor New,NA,NA
+New,Best Friends Pets Fyshwick,1 Barrier Street,Fyshwick,25/08/2021 - Wednesday,5:15pm,6:00pm,Monitor,Monitor New,NA,NA
+New,Woolworths Conder,"Lanyon Marketplace, 4 Sidney Nolan Street",Conder,25/08/2021 - Wednesday,5:00pm,6:30pm,Casual,Casual New,NA,NA
 ,IGA Holt,Holt Place,Holt,24/08/2021 - Tuesday,1:40pm,3:30pm,Casual,Casual ,-35.224764,149.0116446
 ,Evatt Newsagency,3 Heydon Place,Evatt,24/08/2021 - Tuesday,9:20am,10:00am,Monitor,Monitor ,-35.2090866,149.0734589
 ,Bunnings Gungahlin,10 Gribble Street,Gungahlin,24/08/2021 - Tuesday,11:30am,12:45pm,Casual,Casual ,-35.1838713,149.1303139

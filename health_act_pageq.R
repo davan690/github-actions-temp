@@ -44,15 +44,6 @@ lu
 #check if there was an update....
 ff <- list.files("data/")
 wu <- grep(lu, ff)
-# 0 = new data
-# 1 = location update needed
-# 2 = take NO action
-
-
-##send email if wu == 1, or 2
-#Code here...
-
-#If wu = 1 then run the script below and check
 
 #table extraction
 ##### scrape covid exposure table from website
@@ -105,61 +96,50 @@ toadd <- which(is.na(tab3$lat))
 
 #drop rows without 
 
-# #function
-# fixgeo <- function(search,  lat, lon, column="Exposure.Location",tt=tab3) {
-#   
-#   ii <- NA
-#   ii <- grep(search,tt[,which(column==colnames(tab3))])
-#   if(length(ii>0)) {
-#     for (c in 1:length(ii)){
-#       tt[ii[c],"lat"] <-lat
-#       tt[ii[c],"lon"] <- lon
-#     }
-#   }
-#   return(tt)
-# }
-# 
-# #load google api
-# # gapi <- readLines("C://personalCODES/gapi.txt")
-# # register_google(gapi)
-# 
-# ##adding geocodes
-# #function
-# # new info to add
-# 
-# # #add lat lon
-# # #
-# # if (length(toadd)>0)
-# # {
-# #   tt <- tab3[toadd,]
-# #   #get coordinates only for those where lat lon is empty
-# # 
-# #   address <- geocode(paste0(tt$Street,", ", tt$Exposure.Location,", ",tt$Suburb ,", Canberra, Australia"))
-# # 
-# #   tab3$lat[toadd] <- address$lat
-# #   tab3$lon[toadd] <- address$lon
-# # }
-
-if (length(wu)>2){
-  print(paste0("All updated and synced with ACT update on ", lu)) 
+#function
+fixgeo <- function(search,  lat, lon, column="Exposure.Location",tt=tab3) {
+  
+  ii <- NA
+  ii <- grep(search,tt[,which(column==colnames(tab3))])
+  if(length(ii>0)) {
+    for (c in 1:length(ii)){
+      tt[ii[c],"lat"] <-lat
+      tt[ii[c],"lon"] <- lon
+    }
+  }
+  return(tt)
 }
 
+#load google api
+gapi <- readLines("C://personalCODES/gapi.txt")
+register_google(gapi)
 
-if (length(wu)==0)
+plotnow <-
+  
+  
+##adding geocodes
+#function
+# new info to add
+
+# #add lat lon
+# #
+if (length(toadd)>0)
 {
- #folder path needs to change          
- write_csv(tab3,paste0('data/',Sys.Date(),'_act_location_run',lu, '.csv')) 
-  #save last dataset
-  write_csv(tab3, 'data/last_new.csv')
+  tt <- tab3[toadd,]
+  #get coordinates only for those where lat lon is empty
+
+  address <- geocode(paste0(tt$Street,", ", tt$Exposure.Location,", ",tt$Suburb ,", Canberra, Australia"))
+
+  tab3$lat[toadd] <- address$lat
+  tab3$lon[toadd] <- address$lon
 }
 
- if (length(wu) == 1)
+ #folder path needs to change          
+ write_csv(tab3,paste0('data/',Sys.Date(),'_act_location_run',lu, '.csv'))    
+
+ if (length(toadd)>0)
  {
-   ##run relocation script
-   #send email
-   #save last dataset
-    # write_csv(tab3, 'data/last_new.csv') 
-   print(paste0("New data needs to be check with ACT update on ", lu)) 
+    write_csv(tab3, 'data/last_new.csv') 
  }
 
  
@@ -184,16 +164,3 @@ m <- leaflet() %>% addTiles()
 
 m %>% addCircleMarkers(lat=tab3$lat, lng=tab3$lon,popup = labs, weight=nn2, fillColor = cols[cc],color=ncols[nn], opacity =0.8, radius = 5 , fillOpacity = 0.8)
 
-
-plotnow <- tab3 %>%
-            remove_missing() %>%
-              filter(Status == "New")
-
-glimpse(plotnow)
-
-totalnew <- tab3 %>%
-  # remove_missing() %>%
-  filter(Status == "New")
-
-#11 repeat sites
-##36 total == 25 new sites added
