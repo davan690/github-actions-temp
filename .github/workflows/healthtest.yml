@@ -43,11 +43,10 @@ jobs:
     # Set up R. Note the first line was needed to make sure the curl package worked
     - name: Install R packages
       run: |
-        sudo apt-get install -y libcurl4-openssl-dev
         R -e 'install.packages("tidyverse")'
         R -e 'install.packages("RSelenium")'
         R -e 'install.packages("seleniumPipes")'
-        R -e 'install.packages("dplyr")'
+        R -e 'install.packages("plyr")'
     # Run R script to scrape data
     - name: Scrape data
       run: R -e 'source("health_act_page.R", echo = TRUE)'
