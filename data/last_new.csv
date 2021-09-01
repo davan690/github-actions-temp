@@ -1,0 +1,232 @@
+Status,Exposure.Location,Street,Suburb,Date,Arrival.Time,Departure.Time,Contact,type
+,IGA O'Connor,3 Sargood Street,O'Connor,18/08/2021 - Wednesday,1:15pm,2:15pm,Monitor,Monitor 
+,Caltex Erindale,McBryde Crescent and Denigan Street,Wanniassa,19/08/2021 - Thursday,2:00pm,6:00pm,Monitor,Monitor 
+,Coles Amaroo,Horse Park Drive,Amaroo,22/08/2021 - Sunday,8:40am,10:00am,Casual,Casual 
+,Belconnen Discount Pharmacy (Priceline),1-5 Chandler Street,Belconnen,23/08/2021 - Monday,1:10pm,2:20pm,Casual,Casual 
+,Evatt Newsagency,3 Heydon Place,Evatt,24/08/2021 - Tuesday,9:20am,10:00am,Monitor,Monitor 
+,Bunnings Gungahlin,10 Gribble Street,Gungahlin,24/08/2021 - Tuesday,11:30am,12:45pm,Casual,Casual 
+,85 Degrees,"Canberra Centre, 148 Bunda Street",Canberra City,18/08/2021 - Wednesday,1:00pm,2:00pm,Monitor,Monitor 
+,85 Degrees,"Canberra Centre, 148 Bunda Street",Canberra City,18/08/2021 - Wednesday,4:00pm,4:30pm,Monitor,Monitor 
+,Bright Bees Childcare,40 O'Hanlon Place,Nicholls,18/08/2021 - Wednesday,8:00am,5:00pm,Close,Close 
+,Canberra Centre,"Canberra Centre, 148 Bunda Street",Canberra City,18/08/2021 - Wednesday,1:00pm,5:00pm,Monitor,Monitor 
+,Coles Manuka,Franklin Street and Flinders Way,Griffith,18/08/2021 - Wednesday,3:00pm,5:30pm,Monitor,Monitor 
+,Condamine Court,40-48 Forbes Street,Turner,18/08/2021 - Wednesday,12:00am,11:59pm,Close,Close 
+,Crust Pizza Weston,2-4 Liardet Street,Weston,18/08/2021 - Wednesday,6:30pm,8:30pm,Monitor,Monitor 
+,Erindale Pharmacy,2 Denigan Street,Wanniassa,18/08/2021 - Wednesday,11:00am,11:30am,Monitor,Monitor 
+,Guzman y Gomez Canberra Centre,148 Bunda Street,Canberra City,18/08/2021 - Wednesday,2:45pm,10:00pm,Casual,Casual 
+,Oliver Brown Canberra Centre,148 Bunda Street,Canberra City,18/08/2021 - Wednesday,4:15pm,5:10pm,Casual,Casual 
+,The Butcher Shop Wanniassa,60 Comrie Street,Wanniassa,18/08/2021 - Wednesday,11:15am,12:00pm,Monitor,Monitor 
+,Warrumbul Lodge,4 Hutton Street,Canberra City,18/08/2021 - Wednesday,12:00am,11:59pm,Casual,Casual 
+,Westfield Belconnen,"Westfield Belconnen, Benjamin Way",Belconnen,18/08/2021 - Wednesday,12:00pm,2:00pm,Monitor,Monitor 
+,Woolworths Wanniassa,"Erindale Shopping Centre, 50-68 Comrie Street",Wanniassa,18/08/2021 - Wednesday,11:00am,11:40am,Monitor,Monitor 
+,Bright Bees Childcare,40 O'Hanlon Place,Nicholls,19/08/2021 - Thursday,8:00am,5:00pm,Close,Close 
+,Chemist Warehouse Gungahlin,30 Hibberson Street,Gungahlin,19/08/2021 - Thursday,12:40pm,1:25pm,Monitor,Monitor 
+,Chemist Warehouse Belconnen Markets,2 Ibbott Lane,Belconnen,19/08/2021 - Thursday,5:50pm,6:40pm,Casual,Casual 
+,Coles Canberra Centre,"Canberra Centre, 148 Bunda Street",Canberra City,19/08/2021 - Thursday,7:50pm,8:45pm,Casual,Casual 
+,Condamine Court,40-48 Forbes Street,Turner,19/08/2021 - Thursday,12:00am,11:59pm,Close,Close 
+,Da Bronx,2/26 Francis Forde Boulevard,Forde,19/08/2021 - Thursday,5:50pm,6:40pm,Monitor,Monitor 
+,Guzman y Gomez Canberra Centre,148 Bunda Street,Canberra City,19/08/2021 - Thursday,2:45pm,11:00pm,Casual,Casual 
+,Warrumbul Lodge,4 Hutton Street,Canberra City,19/08/2021 - Thursday,12:00am,11:59pm,Casual,Casual 
+,BP Kingston,77 Canberra Avenue,Kingston,19/08/2021 - Thursday,4:30pm,6:00pm,Monitor,Monitor 
+,Woolworths Weston Creek,Corner Brierly Street and Mahony Court,Weston,19/08/2021 - Thursday,4:30pm,6:30pm,Monitor,Monitor 
+,ALDI Amaroo,12 Pioneer Street,Amaroo,20/08/2021 - Friday,4:30pm,5:20pm,Monitor,Monitor 
+,Ochre Medical Centre Tuggeranong,140 Anketell Street,Greenway,20/08/2021 - Friday,10:50am,11:50am,Casual,Casual 
+,Belconnen Community Health Centre - Ground Floor (Toilet Facility),56 Lathlain Street,Belconnen,20/08/2021 - Friday,10:20am,11:10am,Casual,Casual 
+,Belconnen Community Health Centre- Ground Floor,56 Lathlain Street,Belconnen,20/08/2021 - Friday,10:20am,11:10am,Monitor,Monitor 
+,Bright Bees Childcare,40 O'Hanlon Place,Nicholls,20/08/2021 - Friday,8:00am,5:00pm,Close,Close 
+,Crust Pizza Wanniassa,Shop 9B/20 Gartside Steet,Wanniassa,20/08/2021 - Friday,6:35pm,7:00pm,Monitor,Monitor 
+,Guzman y Gomez Canberra Centre,148 Bunda Street,Canberra City,20/08/2021 - Friday,3:30pm,11:00pm,Casual,Casual 
+,Kingsley's Chicken Weston,2 Liardet Street,Weston,20/08/2021 - Friday,6:15pm,7:30pm,Casual,Casual 
+,NewsXpress Wanniassa,"Erindale Shopping Centre, 2 Denigan Street",Wanniassa,20/08/2021 - Friday,12:30pm,1:20pm,Monitor,Monitor 
+,Warrumbul Lodge,4 Hutton Street,Canberra City,20/08/2021 - Friday,12:00am,11:59pm,Casual,Casual 
+,Wokitup Gungahlin,4/46 Hibberson Street,Gungahlin,20/08/2021 - Friday,6:05pm,6:55pm,Monitor,Monitor 
+,Woolworths Metro,1/6 Grazier Lane,Belconnen,20/08/2021 - Friday,11:30am,12:30pm,Monitor,Monitor 
+,Woolworths Wanniassa,"Erindale Shopping Centre, 50-68 Comrie Street",Wanniassa,20/08/2021 - Friday,12:05pm,1:00pm,Monitor,Monitor 
+,Bottlemart Express Braddon,94 Lowanna Street,Braddon,20/08/2021 - Friday,12:30pm,2:00pm,Casual,Casual 
+,Charcoal Rooster Braddon,94 Lowanna Street,Braddon,20/08/2021 - Friday,12:30pm,2:00pm,Casual,Casual 
+,Woolworths Tuggeranong,Corner Anketell and Reed Street,Greenway,20/08/2021 - Friday,11:15am,12:45pm,Casual,Casual 
+,Coles Amaroo,Horse Park Drive,Amaroo,21/08/2021 - Saturday,7:00pm,7:50pm,Monitor,Monitor 
+,Coles Amaroo,Horse Park Drive,Amaroo,21/08/2021 - Saturday,11:05am,11:45am,Monitor,Monitor 
+,Liquorland Amaroo,Horse Park Drive,Amaroo,21/08/2021 - Saturday,11:05am,11:45am,Monitor,Monitor 
+,Australia Post Gungahlin,46 Hibberson Street,Gungahlin,21/08/2021 - Saturday,11:10am,12:00pm,Monitor,Monitor 
+,Mister Minit Gungahlin,"Gungahlin Marketplace, 30 Hibberson Street",Gungahlin,21/08/2021 - Saturday,1:25pm,2:10pm,Monitor,Monitor 
+,Caltex Canberra Airport,"Canberra Airport, 1/3 Rogan Street",Pialligo,21/08/2021 - Saturday,10:40am,11:30am,Monitor,Monitor 
+,ALDI Chisholm,36 Benham Street,Chisholm,21/08/2021 - Saturday,5:10pm,5:50pm,Monitor,Monitor 
+,Capital Chemist Charnwood,41 Charnwood Place,Charnwood,21/08/2021 - Saturday,12:20pm,1:10pm,Monitor,Monitor 
+,Crust Pizza Charnwood,41 Charnwood Place,Charnwood,21/08/2021 - Saturday,12:40pm,1:30pm,Monitor,Monitor 
+,Erindale Pharmacy,2 Denigan Street,Wanniassa,21/08/2021 - Saturday,2:10pm,2:45pm,Monitor,Monitor 
+,Light Rail- R1 Transport Canberra Code LRV010,Ipima Street to Nullarbor Avenue,Public Transport,21/08/2021 - Saturday,2:41pm,3:03pm,Casual,Casual 
+,Light Rail- R1 Transport Canberra Code LRV010,Alinga Street to Ipima Street,Public Transport,21/08/2021 - Saturday,4:38pm,4:48pm,Casual,Casual 
+,Light Rail- R1 Transport Canberra Code LRV011,Nullarbor Avenue to Alinga Street,Public Transport,21/08/2021 - Saturday,3:35pm,3:54pm,Casual,Casual 
+,Woolworths Wanniassa,"Erindale Shopping Centre, 50-68 Comrie Street",Wanniassa,21/08/2021 - Saturday,2:10pm,3:00pm,Monitor,Monitor 
+,Woolworths Weston Creek,Corner Brierly Street and Mahony Court,Weston,21/08/2021 - Saturday,7:30pm,9:00pm,Monitor,Monitor 
+,Mawson Halal Market,2/79 Mawson Place,Mawson,21/08/2021 - Saturday,3:30pm,4:30pm,Casual,Casual 
+,Woolworths Metro Franklin,"51 Nullarbor Avenue, Corner Flemington Road",Franklin,21/08/2021 - Saturday,1:50pm,2:45pm,Monitor,Monitor 
+,Coles Canberra Centre,"Canberra Centre, 148 Bunda Street",Canberra City,21/08/2021 - Saturday,3:00pm,4:10pm,Monitor,Monitor 
+,Bottlemart Express Braddon,94 Lowanna Street,Braddon,21/08/2021 - Saturday,12:30pm,2:00pm,Casual,Casual 
+,Charcoal Rooster Braddon,94 Lowanna Street,Braddon,21/08/2021 - Saturday,12:30pm,2:00pm,Casual,Casual 
+,Domino's Pizza Holt,8/118-126 Hardwick Crescent,Holt,21/08/2021 - Saturday,12:10am,12:50am,Monitor,Monitor 
+,ALDI Amaroo,12 Pioneer Street,Amaroo,22/08/2021 - Sunday,4:00pm,4:40pm,Monitor,Monitor 
+,ALDI Casey,"Casey Market Town, 15 Kingsland Parade",Casey,22/08/2021 - Sunday,5:35pm,7:45pm,Casual,Casual 
+,Supabarn Casey,"Casey Market Town, 15 Kingsland Parade",Casey,22/08/2021 - Sunday,5:10pm,6:15pm,Casual,Casual 
+,Oporto Weston,Kirkpatrick Street,Weston,22/08/2021 - Sunday,3:00pm,3:45pm,Monitor,Monitor 
+,Mirchi Indian Cuisine,4 Riley Close,Ngunnawal,22/08/2021 - Sunday,2:00pm,10:00pm,Close,Close 
+,Gelato Messina Braddon,4/21 Lonsdale Street,Braddon,22/08/2021 - Sunday,4:00pm,5:30pm,Casual,Casual 
+,Haig Park,Haig Park,Braddon & Turner,22/08/2021 - Sunday,4:15pm,5:30pm,Monitor,Monitor 
+,Coles Chisholm,42 Halley Street,Chisholm,22/08/2021 - Sunday,12:20pm,1:10pm,Monitor,Monitor 
+,IGA Denman Prospect,20/3 Felstead Vista,Denman Prospect,22/08/2021 - Sunday,12:40pm,2:00pm,Monitor,Monitor 
+,ALDI Gungahlin,Hibberson Street,Gungahlin,22/08/2021 - Sunday,9:50am,11:00am,Casual,Casual 
+,Woolworths Gungahlin,33 Hibberson Street,Gungahlin,22/08/2021 - Sunday,10:20am,11:30am,Casual,Casual 
+,Le Bon Melange Cafe,G09/48 Gungahlin Place and Bruning Street,Gungahlin,22/08/2021 - Sunday,9:35am,10:30am,Casual,Casual 
+,7-Eleven Casey,"Casey Market Town, 10 Kingsland Parade",Casey,23/08/2021 - Monday,5:00pm,6:00pm,Monitor,Monitor 
+,ALDI Casey,"Casey Market Town, 15 Kingsland Parade",Casey,23/08/2021 - Monday,5:10pm,6:00pm,Monitor,Monitor 
+,Priceline Pharmacy Casey,"Casey Market Town, 15 Kingsland Parade",Casey,23/08/2021 - Monday,5:20pm,5:50pm,Monitor,Monitor 
+,Supabarn Casey,"Casey Market Town, 15 Kingsland Parade",Casey,23/08/2021 - Monday,5:20pm,6:15pm,Casual,Casual 
+,Coles Chisholm,"Chisholm Village Shopping Centre, 42 Halley Street",Chisholm,23/08/2021 - Monday,3:50am,6:00pm,Casual,Casual 
+,Service Australia (Calypso Cafe),57 Athllon Drive,Greenway,23/08/2021 - Monday,12:00pm,2:00pm,Casual,Casual 
+,"Services Australia (Entire building, refer to Casual Contacts entry if attended Level 4)",57 Athllon Drive,Greenway,23/08/2021 - Monday,8:00am,5:00pm,Monitor,Monitor 
+,Services Australia (Level 4),57 Athllon Drive,Greenway,23/08/2021 - Monday,8:00am,5:00pm,Casual,Casual 
+,KFC Dickson,81 Woolley Street,Dickson,23/08/2021 - Monday,10:45am,4:30pm,Casual,Casual 
+,Mirchi Indian Cuisine,4 Riley Close,Ngunnawal,23/08/2021 - Monday,4:00pm,10:30pm,Close,Close 
+,Priceline Pharmacy Casey,"Casey Market Town, 15 Kingsland Parade",Casey,24/08/2021 - Tuesday,3:40pm,4:30pm,Monitor,Monitor 
+,Gerald Slaven Ford Phillip,29 Botany Street,Phillip,23/08/2021 - Monday,8:30am,9:30am,Casual,Casual 
+,Woolworths Kippax,48 Hardwick Crescent,Holt,23/08/2021 - Monday,11:55am,12:50pm,Casual,Casual 
+,Woolworths Kippax,48 Hardwick Crescent,Holt,23/08/2021 - Monday,2:40pm,3:35pm,Monitor,Monitor 
+,Coles Tuggeranong,Pitman Street,Greenway,23/08/2021 - Monday,10:10am,11:10am,Casual,Casual 
+,Liquorland Tuggeranong,Corner Northern Street and Western Street,Greenway,23/08/2021 - Monday,10:30am,11:15am,Monitor,Monitor 
+,ALDI Amaroo,12 Pioneer Street,Amaroo,24/08/2021 - Tuesday,4:15pm,5:00pm,Monitor,Monitor 
+,ALDI Amaroo,12 Pioneer Street,Amaroo,24/08/2021 - Tuesday,5:40pm,6:30pm,Monitor,Monitor 
+,ALDI Casey,"Casey Market Town, 15 Kingsland Parade",Casey,24/08/2021 - Tuesday,3:50pm,4:40pm,Monitor,Monitor 
+,Priceline Pharmacy Tuggeranong,148 Anketell Street,Greenway,23/08/2021 - Monday,10:00am,10:45am,Monitor,Monitor 
+,Coles Chisholm,"Chisholm Village Shopping Centre, 42 Halley Street",Chisholm,24/08/2021 - Tuesday,5:20am,6:00pm,Casual,Casual 
+,The Public Place,"Chisholm Village Shopping Centre, 42 Halley Street",Chisholm,24/08/2021 - Tuesday,10:00am,10:40am,Monitor,Monitor 
+,"Services Australia (Entire building, refer to Casual Contacts entry if attended Level 4)",57 Athllon Drive,Greenway,24/08/2021 - Tuesday,8:00am,2:00pm,Monitor,Monitor 
+,Services Australia (Level 4),57 Athllon Drive,Greenway,24/08/2021 - Tuesday,8:00am,2:00pm,Casual,Casual 
+,Chemist Warehouse Gungahlin,30 Hibberson Street,Gungahlin,24/08/2021 - Tuesday,2:10pm,3:00pm,Monitor,Monitor 
+,Woolworths Gungahlin,30/33 Hibberson Street,Gungahlin,24/08/2021 - Tuesday,2:20pm,3:20pm,Casual,Casual 
+,Coles Gungahlin,Gungahlin Place,Gungahlin,24/08/2021 - Tuesday,2:40pm,3:30pm,Monitor,Monitor 
+,KFC Dickson,81 Woolley Street,Dickson,24/08/2021 - Tuesday,9:40am,4:30pm,Casual,Casual 
+,Mirchi Indian Cuisine,4 Riley Close,Ngunnawal,24/08/2021 - Tuesday,4:00pm,10:30pm,Close,Close 
+,Master Kebabs,50 Denigan Street,Wanniassa,24/08/2021 - Tuesday,5:40pm,6:50pm,Casual,Casual 
+,IGA Holt,Holt Place,Holt,24/08/2021 - Tuesday,1:40pm,3:30pm,Casual,Casual 
+,The Chifley Grocer,20-22 Chifley Place,Chifley,25/08/2021 - Wednesday,11:40am,12:30pm,Monitor,Monitor 
+,Coles Chisholm,"Chisholm Village Shopping Centre, 42 Halley Street",Chisholm,25/08/2021 - Wednesday,5:20am,5:30pm,Casual,Casual 
+,Total Tools Fyshwick,103 Gladstone Street,Fyshwick,25/08/2021 - Wednesday,10:15am,11:10am,Monitor,Monitor 
+,Coles Jamison,"Jamison Plaza, Bowman Street",Macquarie,25/08/2021 - Wednesday,10:55am,11:35am,Monitor,Monitor 
+,Jamison Plaza News,"Jamison Plaza, Bowman Street",Macquarie,25/08/2021 - Wednesday,11:00am,11:40am,Monitor,Monitor 
+,Australia Post Gungahlin,46 Hibberson Street,Gungahlin,25/08/2021 - Wednesday,3:00pm,3:45pm,Monitor,Monitor 
+,Cellarbrations Gungahlin,24-30 Ernest Cavanagh Street,Gungahlin,25/08/2021 - Wednesday,8:30pm,9:20pm,Monitor,Monitor 
+,On-Lake Cafe,"Bowen Park, Bowen Drive",Barton,26/08/2021 - Thursday,12:55pm,1:45pm,Casual,Casual 
+,BWS Mawson,Mawson Place,Mawson,26/08/2021 - Thursday,6:35pm,7:30pm,Monitor,Monitor 
+,Goodberry's Erindale,2/20 Gartside Street,Wanniassa,26/08/2021 - Thursday,2:20pm,3:00pm,Monitor,Monitor 
+,The Bottle O-Mitchell,Brookes Street,Mitchell,26/08/2021 - Thursday,2:50pm,3:30pm,Monitor,Monitor 
+,GP Respiratory Clinic,5 Baratta Street,Crace,26/08/2021 - Thursday,1:50pm,2:50pm,Casual,Casual 
+,Westpac Canberra Centre,148 Bunda Street,Canberra City,26/08/2021 - Thursday,10:30am,11:20am,Monitor,Monitor 
+,The Pharmacy on Petrie,148 Bunda Street,Canberra City,26/08/2021 - Thursday,10:50am,11:30am,Monitor,Monitor 
+,IGA X-press Palmerston,2/16A Kosciuszko Avenue,Palmerston,26/08/2021 - Thursday,4:10pm,5:00pm,Monitor,Monitor 
+,Cellarbrations Gungahlin,24-30 Ernest Cavanagh Street,Gungahlin,26/08/2021 - Thursday,8:00pm,8:45pm,Monitor,Monitor 
+,Officeworks Braddon,30 Mort Street,Braddon,26/08/2021 - Thursday,2:50pm,4:00pm,Casual,Casual 
+,Metro Petroleum Mitchell,Lysaght Street,Mitchell,27/08/2021 - Friday,10:00am,10:50am,Monitor,Monitor 
+,Canturf,14 Cessnock Street,Fyshwick,27/08/2021 - Friday,10:50am,11:40am,Monitor,Monitor 
+,Bright Bees Childcare,40 O'Hanlon Place,Nicholls,16/08/2021 - Monday,7:00am,3:00pm,Close,Close 
+,Argyle Housing - Ainslie Village,23 Quick Street,Campbell,25/08/2021 - Wednesday,12:00am,11:59pm,Close,Close 
+,Argyle Housing - Ainslie Village,23 Quick Street,Campbell,26/08/2021 - Thursday,12:00am,11:59pm,Close,Close 
+,Argyle Housing - Ainslie Village,23 Quick Street,Campbell,27/08/2021 - Friday,12:00am,11:59pm,Close,Close 
+,Argyle Housing - Ainslie Village,23 Quick Street,Campbell,28/08/2021 - Saturday,12:00am,11:59pm,Close,Close 
+,Argyle Housing - Ainslie Village,23 Quick Street,Campbell,29/08/2021 - Sunday,12:00am,11:59pm,Close,Close 
+,Argyle Housing - Ainslie Village (Winter Lodge),23 Quick Street,Campbell,25/08/2021 - Wednesday,12:00am,11:59pm,Close,Close 
+,Argyle Housing - Ainslie Village (Winter Lodge),23 Quick Street,Campbell,26/08/2021 - Thursday,12:00am,12:00pm,Close,Close 
+,Priceline Pharmacy Woden,"Shop G98, Westfield Woden",Phillip,26/08/2021 - Thursday,9:15am,6:00pm,Close,Close 
+,Officeworks Belconnen,5 Cohen Street,Belconnen,27/08/2021 - Friday,10:25am,11:45am,Casual,Casual 
+,SupaBarn Express Watson,5 Watson Place,Watson,26/08/2021 - Thursday,9:30am,10:30am,Casual,Casual 
+,EG Fuel Canberra Gateway,41 Federal Highway,Lyneham,27/08/2021 - Friday,9:45am,10:30am,Monitor,Monitor 
+,Garema Place Surgery,"Level 1, Florina Building, Garema Place",Canberra City,26/08/2021 - Thursday,11:00am,12:20pm,Casual,Casual 
+,Wokitup! Kippax,118 Hardwick Crescent,Holt,25/08/2021 - Wednesday,6:50pm,7:30pm,Monitor,Monitor 
+,Grill'd Belconnen,301 Benjamin Way,Belconnen,25/08/2021 - Wednesday,7:40pm,8:10pm,Monitor,Monitor 
+,Kingsley's Chicken Westfield Woden,"Westfield Woden, Keltie Street",Phillip,26/08/2021 - Thursday,2:00pm,2:40pm,Monitor,Monitor 
+,Espresso Room Westfield Woden,"Westfield Woden, Keltie Street",Phillip,26/08/2021 - Thursday,2:00pm,2:45pm,Monitor,Monitor 
+,Kingsley's Chicken Westfield Woden,"Westfield Woden, Keltie Street",Phillip,27/08/2021 - Friday,2:15pm,3:00pm,Monitor,Monitor 
+,Ampol Foodary Weston,49 Brierly Street,Weston,28/08/2021 - Saturday,5:40pm,6:20pm,Monitor,Monitor 
+,JAGA Swanson Court,"Level 1, 11-17 Swanson Court",Belconnen,27/08/2021 - Friday,10:00am,11:00am,Monitor,Monitor 
+,Costco Canberra,39-41 Mustang Avenue,Majura Park,25/08/2021 - Wednesday,4:15pm,5:15pm,Casual,Casual 
+,Priceline Pharmacy Tuggeranong,"Hyperdome Shopping Centre, 148 Anketell Street",Greenway,25/08/2021 - Wednesday,3:00pm,4:00pm,Monitor,Monitor 
+,San Churro Woden,"Westfield Woden, Keltie Street",Woden,26/08/2021 - Thursday,7:00pm,8:00pm,Monitor,Monitor 
+,Lanyon Newsagency & Gift Shop,"Lanyon Marketplace, 4 Sidney Nolan Street",Conder,26/08/2021 - Thursday,5:00pm,6:00pm,Monitor,Monitor 
+,Woolworths Kippax,"Kippax Fair Shopping Centre, 26 Hardwick Crescent",Holt,28/08/2021 - Saturday,3:20pm,4:20pm,Casual,Casual 
+,Kingsley's Chicken Kippax,"Kippax Fair Shopping Centre, 26 Hardwick Crescent",Holt,28/08/2021 - Saturday,3:30pm,4:20pm,Casual,Casual 
+,Woolworths Kippax,"Kippax Fair Shopping Centre, 26 Hardwick Crescent",Holt,24/08/2021 - Tuesday,6:20pm,7:10pm,Monitor,Monitor 
+,Chemist Warehouse Woden,24 Corinna Street,Woden,24/08/2021 - Tuesday,2:30pm,4:00pm,Monitor,Monitor 
+,Samiuz,3/57 Benjamin Way,Belconnen,23/08/2021 - Monday,6:20pm,7:30pm,Monitor,Monitor 
+,Calwell Shopping Centre,7 Webber Crescent,Calwell,25/08/2021 - Wednesday,9:25am,10:05am,Monitor,Monitor 
+,Clay.,2 David Street,Turner,25/08/2021 - Wednesday,10:20am,11:30am,Monitor,Monitor 
+,Priceline Pharmacy Woden,"Shop G98, Westfield Woden",Phillip,27/08/2021 - Friday,8:50am,6:00pm,Close,Close 
+,Tikka Take,Shop 6/21 Genge Street,Canberra City,25/08/2021 - Wednesday,7:30pm,8:30pm,Monitor,Monitor 
+,Woolworths Conder,"Lanyon Marketplace, 4 Sidney Nolan Street",Conder,26/08/2021 - Thursday,3:15pm,4:10pm,Casual,Casual 
+,Coffee Guru Lanyon,"Lanyon Marketplace, 4 Sidney Nolan Street",Conder,26/08/2021 - Thursday,3:10pm,3:50pm,Monitor,Monitor 
+,Lanyon Newsagency & Gift Shop,"Lanyon Marketplace, 4 Sidney Nolan Street",Conder,26/08/2021 - Thursday,3:40pm,4:30pm,Monitor,Monitor 
+,Sushi Island Lanyon,14/3 Sidney Nolan St,Conder,26/08/2021 - Thursday,3:50pm,4:30pm,Monitor,Monitor 
+,Woolworths Woden,"Westfield Woden, Keltie Street",Phillip,26/08/2021 - Thursday,7:45am,8:30am,Casual,Casual 
+,Woolworths Woden,"Westfield Woden, Keltie Street",Phillip,26/08/2021 - Thursday,1:20pm,2:10pm,Casual,Casual 
+,Woolworths Woden,"Westfield Woden, Keltie Street",Phillip,27/08/2021 - Friday,7:50am,8:30am,Casual,Casual 
+,Liquorland Woden,"Westfield Woden, Keltie Street",Phillip,27/08/2021 - Friday,4:40pm,5:30pm,Monitor,Monitor 
+,Priceline Pharmacy Woden,"Westfield Woden, Keltie Street",Phillip,29/08/2021 - Sunday,12:45pm,2:30pm,Close,Close 
+,Woolworths Weston Creek,Corner Brierly Street and Mahony Court,Weston,29/08/2021 - Sunday,2:50pm,4:00pm,Casual,Casual 
+,BWS Weston Creek,Corner Brierly Street and Mahony Court,Weston,29/08/2021 - Sunday,3:30pm,4:10pm,Monitor,Monitor 
+,Westfield Woden,"Westfield Woden, Keltie Street",Phillip,26/08/2021 - Thursday,7:45am,5:00pm,Monitor,Monitor 
+,Westfield Woden,"Westfield Woden, Keltie Street",Phillip,27/08/2021 - Friday,7:45am,5:00pm,Monitor,Monitor 
+,Westfield Woden,"Westfield Woden, Keltie Street",Phillip,28/08/2021 - Saturday,7:45am,5:00pm,Monitor,Monitor 
+,BP Phillip,166 Melrose Drive,Phillip,27/08/2021 - Friday,11:20am,12:05pm,Monitor,Monitor 
+,Woolworths Charnwood,25-30 Charnwood Place,Charnwood,30/08/2021 - Monday,7:00am,8:20am,Casual,Casual 
+,Australia Post Braddon,2c/32 Mort Street,Braddon,27/08/2021 - Friday,8:40am,9:30am,Monitor,Monitor 
+,Raku Canberra Centre,"Shop DG36C, Canberra Centre, 148 Bunda Street",Canberra City,21/08/2021 - Saturday,6:10pm,7:00pm,Monitor,Monitor 
+,Universal Phone Services Canberra Centre,"Shop AG14, Canberra Centre, 148 Bunda Street",Canberra City,23/08/2021 - Monday,10:35am,11:30am,Casual,Casual 
+,Optus Canberra Centre,"Shop AG12B, Canberra Centre, 148 Bunda Street",Canberra City,25/08/2021 - Wednesday,2:40pm,3:30pm,Casual,Casual 
+,Universal Phone Services Canberra Centre,"Shop AG14, Canberra Centre, 148 Bunda Street",Canberra City,25/08/2021 - Wednesday,2:50pm,3:45pm,Monitor,Monitor 
+,Saint Clare of Assisi Primary School,Box Hill Avenue and Heidelberg Street,Conder,26/08/2021 - Thursday,8:00am,3:30pm,Close,Close 
+,Saint Clare of Assisi Outside School Hours Care (OSHC),Box Hill Avenue and Heidelberg Street,Conder,26/08/2021 - Thursday,8:00am,8:30am,Casual,Casual 
+,Saint Clare of Assisi Outside School Hours Care (OSHC),Box Hill Avenue and Heidelberg Street,Conder,26/08/2021 - Thursday,4:00pm,4:30pm,Casual,Casual 
+,Woolworths Weston Creek,Corner Brierly Street and Mahony Court,Weston,27/08/2021 - Friday,4:40pm,5:20pm,Monitor,Monitor 
+,Woolworths Wanniassa,"Erindale Shopping Centre, 50-68 Comrie Street",Wanniassa,29/08/2021 - Sunday,4:50pm,5:35pm,Monitor,Monitor 
+,Kingsley's Chicken Conder,"Lanyon Marketplace, 4 Sidney Nolan Street",Conder,26/08/2021 - Thursday,3:40pm,4:30pm,Monitor,Monitor 
+,7-Eleven Braddon,20 Mort Street,Braddon,29/08/2021 - Sunday,5:00pm,5:45pm,Monitor,Monitor 
+,Supabarn Express Watson,5 Watson Place,Watson,29/08/2021 - Sunday,6:00pm,6:40pm,Monitor,Monitor 
+,Westfield Woden,"Westfield Woden, Keltie Street",Phillip,28/08/2021 - Saturday,4:00pm,5:15pm,Monitor,Monitor 
+,Woolworths Woden,"Westfield Woden, Keltie Street",Phillip,28/08/2021 - Saturday,4:10pm,5:15pm,Casual,Casual 
+,Coles Manuka,Franklin Street and Flinders Way,Griffith,27/08/2021 - Friday,11:40am,12:20pm,Monitor,Monitor 
+,Grill'd Manuka,1/40-42 Franklin Street,Griffith,27/08/2021 - Friday,11:40am,12:15pm,Monitor,Monitor 
+,Coles Chisholm,42 Halley Street,Chisholm,27/08/2021 - Friday,1:00pm,1:40pm,Monitor,Monitor 
+,McDonalds Erindale,Corner Ricardo Street and McBryde Crescent,Wanniassa,27/08/2021 - Friday,5:40pm,6:20pm,Casual,Casual 
+,Indian Affair,64 Colbee Court,Phillip,27/08/2021 - Friday,6:55pm,7:35pm,Monitor,Monitor 
+,Oporto Phillip,82 Parramatta Street,Phillip,27/08/2021 - Friday,8:20pm,9:00pm,Monitor,Monitor 
+,Canberra Cafe Greenway,Shop 12/ 150-180 Soward Way,Greenway,28/08/2021 - Saturday,12:40pm,1:20pm,Monitor,Monitor 
+,Oporto Tuggeranong,"Tuggeranong South.Point Shopping Centr, 210 Anketell Street",Greenway,28/08/2021 - Saturday,1:40pm,2:20pm,Monitor,Monitor 
+,McDonalds Erindale,Corner Ricardo Street and McBryde Crescent,Wanniassa,28/08/2021 - Saturday,4:45pm,5:40pm,Monitor,Monitor 
+,Pizza Hut Erindale,Shop 2/38 Gartside Street,Wanniassa,28/08/2021 - Saturday,5:40pm,6:20pm,Monitor,Monitor 
+,McDonalds Conder,Box Hill Avenue,Conder,29/08/2021 - Sunday,4:20pm,5:00pm,Monitor,Monitor 
+,Ampol Petrol Calwell,Were Street,Calwell,29/08/2021 - Sunday,4:40pm,5:20pm,Monitor,Monitor 
+,Master Kebabs Wanniassa,50 Denigan Street,Wanniassa,29/08/2021 - Sunday,5:15pm,6:30pm,Monitor,Monitor 
+,Oscy's Burgers Tuggeranong,90 Reed Street,Greenway,29/08/2021 - Sunday,6:20pm,7:00pm,Monitor,Monitor 
+New,JAGA Swanson Court,"Level 1, 11-17 Swanson Court",Belconnen,26/08/2021 - Thursday,4:00pm,6:00pm,Casual,Casual New
+New,KFC Woden,48 Botany Street,Phillip,27/08/2021 - Friday,3:50pm,10:00pm,Casual,Casual New
+New,SupaBarn Express Watson,5 Watson Place,Watson,27/08/2021 - Friday,9:40am,11:00am,Casual,Casual New
+New,Ainslie Cellars,7 Edgar Street,Ainslie,29/08/2021 - Sunday,2:25pm,3:05pm,Monitor,Monitor New
+New,Ainslie Cellars,7 Edgar Street,Ainslie,29/08/2021 - Sunday,4:00pm,4:40pm,Monitor,Monitor New
+New,Costco Canberra,39-41 Mustang Avenue,Majura Park,25/08/2021 - Wednesday,4:00pm,5:40pm,Casual,Casual New
+New,Petbarn Majura Park,15 Mustange Avenue,Majura Park,25/08/2021 - Wednesday,5:00pm,5:50pm,Monitor,Monitor New
+New,Best Friends Pets Fyshwick,1 Barrier Street,Fyshwick,25/08/2021 - Wednesday,5:15pm,6:00pm,Monitor,Monitor New
+New,Woolworths Conder,"Lanyon Marketplace, 4 Sidney Nolan Street",Conder,25/08/2021 - Wednesday,5:00pm,6:30pm,Casual,Casual New
+New,Priceline Pharmacy Gungahlin,126/43 Hibberson Street,Gungahlin,30/08/2021 - Monday,12:20pm,1:20pm,Casual,Casual New
+New,ALDI Gungahlin,Hibberson Street,Gungahlin,30/08/2021 - Monday,12:40pm,1:30pm,Monitor,Monitor New
+New,First Choice Liquor Gungahlin,46-50 Hibberson Street,Gungahlin,30/08/2021 - Monday,12:50pm,2:00pm,Casual,Casual New
+New,Bus Route 65 Transport Canberra Code BUS607,Woden Interchange to Cooleman Court,Public Transport,30/08/2021 - Monday,1:25pm,1:38pm,Casual,Casual New
+New,Bus Route 70 Transport Canberra Code BUS376,Cooleman Court to Woden Interchange,Public Transport,30/08/2021 - Monday,1:57pm,2:07pm,Casual,Casual New
+New,Bus Route 22 Transport Canberra Code BUS491,Gungahlin Place to Throsby,Public Transport,26/08/2021 - Thursday,2:50pm,2:56pm,Casual,Casual New
+New,Light Rail Route R1 Transport Canberra Code LRV009,Gungahlin to Manning Clark North,Public Transport,26/08/2021 - Thursday,5:01pm,5:03pm,Casual,Casual New
+New,Bus Route 65 Transport Canberra Code BUS641,Woden Interchange to Cooleman Court,Public Transport,29/08/2021 - Sunday,8:00am,8:10am,Casual,Casual New
+New,Bus Route 64 Transport Canberra Code BUS641,Cooleman Court to Woden Interchange,Public Transport,29/08/2021 - Sunday,8:43am,8:53am,Casual,Casual New
+New,Woolworths Mawson,15 Mawson Place,Mawson,29/08/2021 - Sunday,8:20am,10:00am,Casual,Casual New
+New,Bus Route 66 Transport Canberra Code BUS492,Denman Prospect to Woden Interchange,Public Transport,30/08/2021 - Monday,8:21pm,8:38pm,Casual,Casual New
+New,Bus Route 71 Transport Canberra Code BUS601,Woden Interchange to Cooleman Court,Public Transport,30/08/2021 - Monday,8:42pm,8:49pm,Casual,Casual New
+New,Bus Route 7 Transport Canberra Code BUS710,Cooleman Court to City Interchange,Public Transport,30/08/2021 - Monday,10:39pm,11:03pm,Casual,Casual New
+New,Bus Route 66 Transport Canberra Code BUS355,Denman Prospect to Woden Interchange,Public Transport,31/08/2021 - Tuesday,7:27pm,7:43pm,Casual,Casual New
+New,Bus Route 61 Transport Canberra Code BUS359,Woden Interchange to Phillip,Public Transport,31/08/2021 - Tuesday,7:46pm,7:50pm,Casual,Casual New
