@@ -27,16 +27,16 @@ jobs:
     # The type of runner that the job will run on. Needs to be ubuntu to use the start selenoid server action
     runs-on: ubuntu-latest
     #runs-on: ubuntu-18.04
-    # Checks-out the repository
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
-        
+    
     steps:
     # Start selenoid server
     - name: Start selenoid
       uses: Xotabu4/selenoid-github-action@v1
-    
+        # Checks-out the repository
+    - uses: actions/checkout@v2
+  #    with:
+  #      fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+        
     # Install R
     - uses: r-lib/actions/setup-r@master
       with:
