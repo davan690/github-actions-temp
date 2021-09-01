@@ -13,10 +13,8 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
-
-# Controls when the action will run. Triggers the workflow at a specific time
-on:
   workflow_dispatch:
+    branches: [ main ]
 #  schedule:
 #    - cron: '30 18 * * *'
 
