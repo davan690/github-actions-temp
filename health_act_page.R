@@ -18,9 +18,7 @@ library(arsenal)
 # library(dplyr)
 
 # saveRDS(url_html, "data/test.rds")
-#load google api
-# gapi <- readLines("c:/bernd/r/covid_canberra/gapi.txt")
-register_google(gapi)
+
 
 #nse top gainers
 url <- 'https://www.covid19.act.gov.au/'
@@ -96,26 +94,73 @@ ldata$check <- NULL
 
 toadd <- which(is.na(tab3$lat))
 
+#drop rows without 
+
+#function
+fixgeo <- function(search,  lat, lon, column="Exposure.Location",tt=tab3) {
+  
+  ii <- NA
+  ii <- grep(search,tt[,which(column==colnames(tab3))])
+  if(length(ii>0)) {
+    for (c in 1:length(ii)){
+      tt[ii[c],"lat"] <-lat
+      tt[ii[c],"lon"] <- lon
+    }
+  }
+  return(tt)
+}
+
+#load google api
+gapi <- readLines("C://personalCODES/gapi.txt")
+register_google(gapi)
+
+plotnow <-
+  
+  
+##adding geocodes
+#function
 # new info to add
 
 # #add lat lon
 # #
-# if (length(toadd)>0)
-# {
-#   tt <- tab3[toadd,]
-#   #get coordinates only for those where lat lon is empty
-#   
-#   address <- geocode(paste0(tt$Street,", ", tt$Exposure.Location,", ",tt$Suburb ,", Canberra, Australia"))
-#   
-#   tab3$lat[toadd] <- address$lat
-#   tab3$lon[toadd] <- address$lon
-# }
+if (length(toadd)>0)
+{
+  tt <- tab3[toadd,]
+  #get coordinates only for those where lat lon is empty
+
+  address <- geocode(paste0(tt$Street,", ", tt$Exposure.Location,", ",tt$Suburb ,", Canberra, Australia"))
+
+  tab3$lat[toadd] <- address$lat
+  tab3$lon[toadd] <- address$lon
+}
 
  #folder path needs to change          
  write_csv(tab3,paste0('data/',Sys.Date(),'_act_location_run',lu, '.csv'))    
+
+ if (length(toadd)>0)
+ {
+    write_csv(tab3, 'data/last_new.csv') 
+ }
+
  
- write_csv(tab3, 'data/last_test.csv') 
-
-
-
+ 
+ 
+#quickmap
+dat <- read.csv('data/last_new.csv')
+glimpse(dat)
        
+
+
+###############################################
+cols <- c( "red", "yellow","blue")
+
+labs <- paste(tab3$Contact, tab3$Status,tab3$Exposure.Location, tab3$Street, tab3$Suburb, tab3$Date,tab3$Arrival.Time, tab3$Departure.Time, tab3$doubles, sep="<br/>") 
+cc <- as.numeric(factor(tab3$Contact,levels=c(  "Close"  , "Casual", "Monitor") ))
+ncols <- c("black","cyan")
+nn <- as.numeric(factor(tab3$Status))
+nn2 <- ifelse(nn==1,nn, 3)
+##plot the map
+m <- leaflet() %>% addTiles()
+
+m %>% addCircleMarkers(lat=tab3$lat, lng=tab3$lon,popup = labs, weight=nn2, fillColor = cols[cc],color=ncols[nn], opacity =0.8, radius = 5 , fillOpacity = 0.8)
+
